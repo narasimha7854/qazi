@@ -1,0 +1,6 @@
+print("Python Application:")
+print("1. Rich User Interface")
+print("2. Strong Web Development")
+print("3. Rich in Machine learining")
+print("4. Using to Testing Application=> Salinium")
+print("5. Used in Dev-Ops=>Ansible")

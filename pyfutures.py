@@ -1,0 +1,6 @@
+print("Features of Python:")
+print("Write Once Run Anywhere")
+print("It is very simple to Author")
+print("Python is general Public Licenced Software")
+print("Python is portable and Trasferebility")
+print("Python is secured Application")
